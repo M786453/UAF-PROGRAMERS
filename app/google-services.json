@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512500890447",
+    "project_id": "uaf-programmers",
+    "storage_bucket": "uaf-programmers.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512500890447:android:ae458603d096a9b2ac633a",
+        "android_client_info": {
+          "package_name": "com.example.uafprogrammers"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512500890447-euh6fhl32o85u1n0v7japa9ke5vpvvpn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAt0zY_M81BKq_rtZFhFgjva3KcU3I8g4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512500890447-euh6fhl32o85u1n0v7japa9ke5vpvvpn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
